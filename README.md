@@ -1,4 +1,12 @@
 My Project
 - - -
 
-Welcome. 
+Welcome.
+
+
+Setup
+...
+
+...
+npm install
+...
