@@ -16,10 +16,10 @@ module.exports = {
         exclude: /node_modules/,
         use: [
           'babel-loader',
-        ].
-      }.
-    ].
-  }.
+        ],
+      },
+    ],
+  },
   resolve: {
     modules: [
       path.join(__dirname, 'node_modules'),
